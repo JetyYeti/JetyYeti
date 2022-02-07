@@ -1,6 +1,6 @@
-Yo, Im Jet
-I make mods for VRChat
-c# enjoyer
+-Yo, Im Jet
+-I make mods for VRChat
+-c# enjoyer
 
 
 
