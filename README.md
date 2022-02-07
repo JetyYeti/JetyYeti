@@ -1,6 +1,6 @@
-- 👋 Wassup I dont know what im doing
-- 👀 I’m interested in video game modification 
-- 🌱 I’m currently learning python,c#,C++
+Yo, Im Jet
+I make mods for VRChat
+c# enjoyer
 
 
 
