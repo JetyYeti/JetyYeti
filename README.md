@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JetyYeti)](https://github.com/anuraghazra/github-readme-stats)
+Currently Learing Python!
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JetyYeti&show_icons=true&theme=dracula)
 
 
