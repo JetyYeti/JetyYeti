@@ -1,6 +1,4 @@
--Yo, Im Jet
--I make mods for VRChat
--c# enjoyer
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JetyYeti)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
